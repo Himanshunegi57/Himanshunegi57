@@ -1,4 +1,4 @@
-Himanshu Negi - Android & React Native Developer | Web Enthusiast 👨‍💻
+Android & React Native Developer | Web Enthusiast 👨‍💻
 Welcome to the GitHub repository of Himanshu Negi, an Android and React Native app developer, with a growing passion for web development. This repository showcases a mix of Android, cross-platform, and web-based projects I’ve worked on — including personal projects and open-source contributions.
 
 About Me 😎
