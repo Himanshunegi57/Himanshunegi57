@@ -39,7 +39,7 @@ Contributions 🤝
 Open to collaborations and always happy to help the dev community. Feel free to fork any repo and contribute via pull requests. Let’s build something awesome together!
 
 Contact 📬
-Email: ✉️ hengi2221@gmail.com
+Email: ✉️ hnegi2221@gmail.com
 
 
 
